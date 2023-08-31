@@ -1,6 +1,4 @@
 /*  your css code here. If applicable */
-/*  your css code here. If applicable */
-/*  your css code here. If applicable */
 #baguetteBox-overlay .full-image img{
     height: 70%;
 }
@@ -14,4 +12,7 @@
 
 .card-text{
 	text-align: center;
+}
+.br-r{
+	 border-radius: 10px;
 }
